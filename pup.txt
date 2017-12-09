@@ -1100,6 +1100,7 @@ checkingfree.thebigandalwaysfree4update.win
 checkingfree.thebigandalwaysfree4updates.bid
 checkingfree.thebigandalwaysfree4updates.download
 checkingfree.thebigandalwaysfree4updates.stream
+checkingfree.theglobal4upgradingbuddy.download
 checkingfree.workupgradesafesystemset4now.bid
 checkingfreealwayssafeandfresh.download
 checkingfreesafesystemset4now.bid
@@ -15505,4 +15506,4 @@ zxmllsevanesced.review
 zyk.bratok.com
 zztabwatoke.review
 zzzbfvfglucoside.review
-# hosts: 15508
+# hosts: 15509
