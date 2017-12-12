@@ -47,6 +47,7 @@ shellscriptcorrupt023.review
 sitesure.com
 smouch.net
 spyass.com
+spyware-surf413-info.bid
 sweet-page.com
 t2cn.com
 www.05p.com
@@ -75,4 +76,4 @@ www.www4search.net
 www4search.net
 youngteenporn.proboards89.com
 yyue.com
-# hosts: 77
+# hosts: 78
